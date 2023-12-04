@@ -1,5 +1,6 @@
+<p align="center"></p>
 <p align="center">
-  <img src="https://image.marswh.top/7bf4f20c246261e4544ebebc4685758.jpg" width="200" height="200" />
+  <img src="https://image.marswh.top/7bf4f20c246261e4544ebebc4685758.jpg" width="170" height="170" />
 </p>
 
 <h1 align="center">AiStella</h1>
@@ -44,5 +45,5 @@ Thank you for exploring AiStella, where the future of personalized voice AI come
 
 ---
 
-**Please be aware** that the usage of AiStella should comply with all relevant laws and regulations. The model data is copyrighted, and any application of the AiStella model must respect the data rights and legal boundaries.
+**_Please be aware_** that the usage of AiStella should comply with all relevant laws and regulations. The model data is copyrighted, and any application of the AiStella model must respect the data rights and legal boundaries.
 
